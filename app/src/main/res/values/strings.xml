@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Huruf Hijaiyyah</string>
+    <integer-array name="icon_huruf">
+        <item>@drawable/alif</item>
+        <item>@drawable/ba</item>
+        <item>@drawable/tsa</item>
+        <item>@drawable/jim</item>
+        <item>@drawable/ha</item>
+        <item>@drawable/kha</item>
+        <item>@drawable/kha</item>
+        <item>@drawable/dal</item>
+        <item>@drawable/dzal</item>
+        <item>@drawable/ra</item>
+        <item>@drawable/za</item>
+        <item>@drawable/sin</item>
+        <item>@drawable/syin</item>
+        <item>@drawable/shad</item>
+        <item>@drawable/dhod</item>
+        <item>@drawable/tha</item>
+        <item>@drawable/dha</item>
+        <item>@drawable/ain</item>
+        <item>@drawable/ghain</item>
+        <item>@drawable/fa</item>
+        <item>@drawable/qof</item>
+        <item>@drawable/kaf</item>
+        <item>@drawable/lam</item>
+        <item>@drawable/nun</item>
+        <item>@drawable/wawu</item>
+        <item>@drawable/ha</item>
+        <item>@drawable/ya</item>
+    </integer-array>
+    <integer-array name="audio_huruf">
+        <item>@raw/alif</item>
+        <item>@raw/ba</item>
+        <item>@raw/tsa</item>
+        <item>@raw/jim</item>
+        <item>@raw/ha</item>
+        <item>@raw/kha</item>
+        <item>@raw/kha</item>
+        <item>@raw/dal</item>
+        <item>@raw/dzal</item>
+        <item>@raw/ro</item>
+        <item>@raw/zay</item>
+        <item>@raw/sin</item>
+        <item>@raw/syin</item>
+        <item>@raw/shod</item>
+        <item>@raw/dhod</item>
+        <item>@raw/to</item>
+        <item>@raw/dha</item>
+        <item>@raw/ain</item>
+        <item>@raw/ghain</item>
+        <item>@raw/fa</item>
+        <item>@raw/qof</item>
+        <item>@raw/kaf</item>
+        <item>@raw/lam</item>
+        <item>@raw/nun</item>
+        <item>@raw/wawu</item>
+        <item>@raw/ha</item>
+        <item>@raw/ya</item>
+    </integer-array>
+</resources>
